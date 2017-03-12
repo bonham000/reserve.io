@@ -1,6 +1,4 @@
 
-build
-
 # Environment variables
 server/.env
 
